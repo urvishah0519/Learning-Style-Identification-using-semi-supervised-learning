@@ -1,0 +1,56 @@
+[2025-09-21 21:14:35] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:14:35] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:14:35] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:14:35] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:14:35] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:18:42] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:18:42] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:18:42] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:18:42] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:18:42] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:18:42] Model: Sequential | Predicted Class: N/A | Confidence Score: 50.0%
+[2025-09-21 21:20:51] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:20:51] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:20:51] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:20:51] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:20:51] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:21:56] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:21:56] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:21:56] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:21:56] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:21:56] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:27:41] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:27:41] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:27:41] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:27:41] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:27:41] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:29:40] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:29:40] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:29:40] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:29:40] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:29:40] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:29:40] Model: Sequential_global | Predicted Class: 1 | Confidence Score: 70.12%
+[2025-09-21 21:30:03] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:30:03] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:30:03] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:30:03] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:30:03] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:30:03] Model: Sequential_global | Predicted Class: 1 | Confidence Score: 70.12%
+[2025-09-21 21:30:36] --- Button Clicked. Starting Prediction... ---
+[2025-09-21 21:30:36] --- NEW PREDICTION RESULTS ---
+[2025-09-21 21:30:36] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-21 21:30:36] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-21 21:30:36] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-21 21:30:36] Model: Sequential_global | Predicted Class: 1 | Confidence Score: 70.12%
+[2025-09-22 09:58:34] --- Button Clicked. Starting Prediction... ---
+[2025-09-22 09:58:34] --- NEW PREDICTION RESULTS ---
+[2025-09-22 09:58:34] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-22 09:58:34] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-22 09:58:34] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-22 09:58:34] Model: Sequential_global | Predicted Class: 1 | Confidence Score: 70.12%
+[2025-09-24 13:33:18] --- Button Clicked. Starting Prediction... ---
+[2025-09-24 13:33:18] --- NEW PREDICTION RESULTS ---
+[2025-09-24 13:33:18] Model: Visual | Predicted Class: 1 | Confidence Score: 79.03%
+[2025-09-24 13:33:18] Model: Sensing | Predicted Class: 0 | Confidence Score: 98.91%
+[2025-09-24 13:33:18] Model: Active | Predicted Class: 0 | Confidence Score: 80.44%
+[2025-09-24 13:33:18] Model: Sequential_global | Predicted Class: 1 | Confidence Score: 70.12%
